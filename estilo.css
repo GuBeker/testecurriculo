@@ -1,0 +1,65 @@
+.img{
+    background-color: #08090d;
+    background-image:url(img/fundo.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+nav{
+    background-color: rgb(37, 36, 36);
+}
+a:link{text-decoration: none;}
+
+.foto{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.foto1{
+    height: 100%;
+    width: auto;
+    
+}
+.centralizar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.texto{
+    text-align: center;
+    color: blanchedalmond;
+} 
+.social-img {
+	width:75%;
+}
+body{
+    background-image: linear-gradient(20deg, cyan, rgb(0, 0, 0));
+}
+h1{
+    color: blanchedalmond;
+    margin-left: 10px;
+}
+
+.exp{
+    background-color: #08090d;
+    border-radius:  20px 5px;
+    margin-top: 5px;
+}
+.form{
+    background-color: #08090d;
+    border-radius:  20px 5px;
+    margin-top: 5px;
+}
+.hb{
+    background-color: #08090d;
+    border-radius:  20px 5px;
+    margin-top: 5px;
+}
+.sobre{
+    background-color: #08090d;
+    border-radius:  20px 5px;
+    margin-top: 5px;
+}
